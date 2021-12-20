@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Apex, Aura/LWC**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/kumarrabhishek</h3>
+<h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/kumarrabhishek" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/util/convert_to_png.html?svg=/logos/linkedin/linkedin-ar21.svg" alt="linkedin" width="40" height="40"/>  </h3>
 <p align="left">
 </p>
 
